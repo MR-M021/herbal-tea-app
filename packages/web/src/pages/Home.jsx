@@ -1,4 +1,4 @@
-import { getTeaMessage } from '../../shared'
+import { getTeaMessage } from 'shared'
 
 export default function Home() {
   return (
